@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "N:\\VTC Academy\\Object Oriented Programming\\Bai2_SinhVien\\Bai2_SinhVien.csproj",
-      "projectName": "Bai2_SinhVien",
-      "projectPath": "N:\\VTC Academy\\Object Oriented Programming\\Bai2_SinhVien\\Bai2_SinhVien.csproj",
+      "projectUniqueName": "N:\\VTC Academy\\Object Oriented Programming\\Bai5_HangThucPham\\Bai5_HangThucPham.csproj",
+      "projectName": "Bai5_HangThucPham",
+      "projectPath": "N:\\VTC Academy\\Object Oriented Programming\\Bai5_HangThucPham\\Bai5_HangThucPham.csproj",
       "packagesPath": "C:\\Users\\Laptop\\.nuget\\packages\\",
-      "outputPath": "N:\\VTC Academy\\Object Oriented Programming\\Bai2_SinhVien\\obj\\",
+      "outputPath": "N:\\VTC Academy\\Object Oriented Programming\\Bai5_HangThucPham\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

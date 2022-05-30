@@ -20,7 +20,7 @@ namespace Bai3_HinhTamGiac
         //constructor đủ tham số
         public HinhTamGiac(float ma, float mb, float mc)
         {
-            // neu canh ma la so am, gan gia tri = 0
+            //cạnh là số âm, gán giá trị = 0
             if (ma < 0)
             {
                 this.ma = 0;
@@ -44,7 +44,7 @@ namespace Bai3_HinhTamGiac
             {
                 this.mc = mc;
             }
-            // neu khong phai tam gia gan cac gia tri khoi tao = 0
+            //nếu 3 cạnh ko tạo thành tam giác, gán giá trị = 0
             if (!(ma + mb > mc && mb + mc > ma && ma + mc > mb))
             {
                 this.ma = 0;
