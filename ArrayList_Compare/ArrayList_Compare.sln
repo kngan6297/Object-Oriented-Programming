@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayList_Compare", "ArrayList_Compare.csproj", "{5D299971-A4E6-4D6E-B217-9C88D9CDE92B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D299971-A4E6-4D6E-B217-9C88D9CDE92B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D299971-A4E6-4D6E-B217-9C88D9CDE92B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D299971-A4E6-4D6E-B217-9C88D9CDE92B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D299971-A4E6-4D6E-B217-9C88D9CDE92B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5561B294-AD6F-4892-B26D-41CA715F4B0C}
+	EndGlobalSection
+EndGlobal
